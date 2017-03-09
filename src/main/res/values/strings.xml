@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+    <string name="go">go</string>
+    <string name="pref_sort_label">Sort Type</string>
+    <string name="pref_sort_key">sort</string>
+    //
+    <string name="pref_sort_label_Popular">Popular</string>
+    <string name="pref_sort_label_TopRated">Top Rated</string>
+    //
+    <string name="pref_sort_PopularValue" translatable="false">popular</string>
+    <string name="pref_sort_TopRatedValue" translatable="false">top_rated</string>
+    <string name="menu" translatable="false">popular</string>
+
+</resources>
